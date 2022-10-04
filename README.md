@@ -16,7 +16,7 @@ A curated list of resources about confidential computing on public cloud
 
 - [Application Enclaves](https://learn.microsoft.com/en-us/azure/confidential-computing/application-development) - 
 - [Confidential VMs](https://learn.microsoft.com/en-us/azure/confidential-computing/confidential-vm-overview) -
-- [Confidential Containers] - 
+- [Confidential Containers](https://learn.microsoft.com/en-us/azure/confidential-computing/confidential-containers) - 
 
 ## AWS
 
